@@ -1,4 +1,4 @@
-# foodfriends
+# friendsxfood
 
 This was my second project as part of the Ironhack Web Development Bootcamp. 
 I had five days to create an application using Node.js, Express, and Mongodb. 
